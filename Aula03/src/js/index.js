@@ -6,10 +6,35 @@
 var contatos= [
    {
       nome: 'Joao',
-      telefone:'999999999',
+      telefone:'(67)99999-9999',
       email: 'joao@email.com',
       dataNascimento:'29/02/2003'
+   },
+   {
+      nome: 'Lucas Negri',
+      telefone:'(67)88888-8888',
+      email: 'lucas@email.com',
+      dataNascimento:'10/08/1971'
+   },
+   {
+      nome: 'Leandro',
+      telefone:'(67)77777-7777',
+      email: 'leandro@email.com',
+      dataNascimento:'19/03/1952'
+   },
+   {
+      nome: 'Lucas Negri',
+      telefone:'(67)88888-8888',
+      email: 'lucas@email.com',
+      dataNascimento:'10/08/1971'
+   },
+   {
+      nome: 'Leandro',
+      telefone:'(67)77777-7777',
+      email: 'leandro@email.com',
+      dataNascimento:'19/03/1952'
    }
+   
 
 ];
 renderizarTabelaContatos();
